@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rafaellopesbraga
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on amazing projects
+- 📫 How to reach me on [LikedIn](https://www.linkedin.com/in/rafael-lopes-braga-6080b381/)
