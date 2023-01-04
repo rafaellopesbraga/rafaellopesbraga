@@ -2,4 +2,4 @@
 - 👀 I’m interested in PHP, Java and Go.
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me on [LikedIn](https://www.linkedin.com/in/rafael-lopes-braga-6080b381/)
+- 📫 You can reach me on [LikedIn](https://www.linkedin.com/in/rafael-lopes-braga-6080b381/)
